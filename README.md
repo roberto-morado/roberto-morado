@@ -13,6 +13,7 @@ I have re-join after I lost my beloved account, [roramigator](https://github.com
 - 😄 Pronouns: nouns, verbs, adjectives, prepositions, adverbs, conjunctions, and interjections
 - ⚡ Fun fact: I am
 
+✨[RESUME](https://morado.dev/cv.pdf)✨
 ✨[MANIFESTO](https://morado.dev)✨
 ✨[METAPHYSICS](https://morado.dev)✨
 
