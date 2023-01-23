@@ -1,3 +1,6 @@
+
+[![tinysorcerer](https://img.shields.io/static/v1?label=&labelColor=lavender&message=rm&color=whitesmoke&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAABVUlEQVR4nOyaIWoDQRhGd0tdD1AqKlqqKxZqKuorCrU1NRU9RqG3qKiJCdER0TExgRXRIRERIQeITm7wf4Gf4UHme3aY8HgMzL+7uWwETzcfh2i9u/tUP5Hi+vYqXP8dvbSZ37/IbD4HHIAWoHEAWoDGAWgBmrb0PT9efaX2v93/h+vZOaH6E+AAtACNA9ACNA5AC9DIZ+nv50k4J6h7vl8sw/Xu8SG1/+d9Gq7/zV49B0Q4AC1A4wC0AI0D0AI08rtAFnXPZ/er9wWK6k+AA9ACNA5AC9A4AC1AI+eAfj0I17P3sHqvv9vsw3Xlp6j+BDgALUDjALQAjQPQAjRyDphvh+rbAfo/whP8Qqo/AQ5AC9A4AC1A4wC0AE3x7wLqeb1r4jkh+7yvqP4EOAAtQOMAtACNA9ACNMXnAEXpe15R/QlwAFqAxgFoARoHoAVojgEAAP//tvcxKspTPcEAAAAASUVORK5CYII=)](https://morado.dev)
+
 ### Hi there 👋
 
 I have re-join after I lost my beloved account, [roramigator](https://github.com/roramigator), I am very disappointed for GitHub's lack of support; It really did hurt because I had work hard to build it ([Wayback Machine](https://web.archive.org/web/20220730204819/https://github.com/roramigator)) but I'm glad this experience has occurred, do not trust any proprietary, trade-secret system service.
