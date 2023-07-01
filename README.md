@@ -7,11 +7,11 @@ I have re-join after I lost my beloved account, [roramigator](https://github.com
 
 ### About me 🫥
 
-- 🔭 I’m currently working on ~~[localbase](https://deno.land/x/localbase@v0.0.1)~~ [Iroh's Philosophy](https://philosophy.morado.dev)
+- 🔭 I’m currently working on ~~[localbase](https://deno.land/x/localbase@v0.0.1)~~ ~~[Iroh's Philosophy](https://philosophy.morado.dev)~~ [Morado](https://morado.dev)
 - 🌱 I’m currently learning ~~[Typescript](https://www.typescriptlang.org/)~~ ~~[Deno](https://deno.land/)~~ [Rust](https://www.rust-lang.org/)
-- 👯 I’m looking to collaborate on [TestimonialFree](https://github.com/careerJumpstart/TestimonialFree)
-- 🤔 I’m looking for help with [Building in Public](https://publiclab.co/)
-- 💬 Ask me about my lost account
+- 👯 I’m looking to collaborate on ~~[TestimonialFree](https://github.com/careerJumpstart/TestimonialFree)~~ [Arweave](https://www.arweave.org/)
+- 🤔 I’m looking for help with ~~[Building in Public](https://publiclab.co/)~~ [Long term position](https://www.linkedin.com/in/roramigator/)
+- 💬 Ask me about my lost account [roramigator](https://github.com/roramigator)
 - 📫 How to reach me: [Twitter](https://twitter.com/roramigator)
 - 😄 Pronouns: nouns, verbs, adjectives, prepositions, adverbs, conjunctions, and interjections
 - ⚡ Fun fact: I am
